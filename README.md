@@ -1,4 +1,4 @@
-zutha-server
+zutha-lever
 ============
 
-Web interface for the Zuthanet built using a Redis backend and Liftweb frontend
+Web interface for the Zuthanet built using a Liftweb frontend and Redis backend
